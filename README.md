@@ -77,7 +77,6 @@ Durante o treinamento desta IA, foram realizados testes para refinar o aprendiza
 > "Como o método 5Q ajuda a criar lógica de programação?"
 
 - **Resultado:** A IA identificou que o método força uma **análise crítica** antes da escrita do código, evitando erros comuns de iniciantes.
-- **Referência:** Fontes.
 
 ### Variação de Prompt
 > "Explique lógica de programação como se eu fosse um iniciante total."

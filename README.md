@@ -31,6 +31,44 @@ As fontes selecionadas para este estudo incluem materiais educativos de grandes 
 
 ---
 
+## 🤖 Como a IA foi usada neste projeto
+
+### Lógica antes da sintaxe
+
+A principal contribuição da IA foi reforçar uma sequência de aprendizado que muitos iniciantes ignoram: **pensar antes de codar**.
+
+Em vez de aprender Python direto pela sintaxe, a IA ajudou a estruturar o estudo partindo dos fundamentos:
+
+```
+Problema → Algoritmo → Pseudocódigo → Código Python
+```
+
+Isso evitou o erro clássico de decorar comandos sem entender **por que** eles existem.
+
+### O que a IA fez na prática
+
+| Tarefa | Como a IA ajudou |
+|---|---|
+| **Organização do conteúdo** | Agrupou os tópicos por complexidade crescente, garantindo que variáveis e condicionais fossem estudados antes de loops e coleções |
+| **Engenharia de prompts** | Ajudou a formular perguntas mais precisas para extrair respostas mais úteis das fontes de estudo |
+| **Glossário** | Gerou definições claras e com exemplos do mundo real para cada conceito |
+| **Troubleshooting** | Identificou onde o aprendizado travava (ex: transição do pseudocódigo para Python) e sugeriu pontes conceituais |
+| **Prompts reutilizáveis** | Criou templates de perguntas que podem ser reaproveitados em qualquer tema futuro |
+
+### Exemplo real: o Método 5Q
+
+Ao questionar a IA sobre como estruturar a solução de um problema, ela identificou e ensinou o **Método 5Q** — cinco perguntas que devem ser respondidas *antes* de escrever qualquer linha de código:
+
+1. Quais são os dados de entrada?
+2. O que precisa ser feito com eles?
+3. Quais as restrições?
+4. Qual o resultado esperado?
+5. Qual a sequência de passos?
+
+Esse método demonstra **maturidade técnica**: um programador experiente não começa pelo código, começa pelo problema.
+
+---
+
 ## 3. Engenharia de Prompts e "Cicatrizes"
 
 Durante o treinamento desta IA, foram realizados testes para refinar o aprendizado. Abaixo, documento o raciocínio por trás dos resultados:
@@ -99,3 +137,5 @@ Consiste em responder cinco perguntas fundamentais antes de programar:
 ```
 "Analise este trecho de código e sugira como deixá-lo mais 'Pythonic' seguindo o PEP 20."
 ```
+
+---

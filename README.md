@@ -65,11 +65,9 @@ Ao questionar a IA sobre como estruturar a solução de um problema, ela identif
 4. Qual o resultado esperado?
 5. Qual a sequência de passos?
 
-Esse método demonstra **maturidade técnica**: um programador experiente não começa pelo código, começa pelo problema.
-
 ---
 
-## 3. Engenharia de Prompts e "Cicatrizes"
+## 3. Engenharia de Prompts
 
 Durante o treinamento desta IA, foram realizados testes para refinar o aprendizado. Abaixo, documento o raciocínio por trás dos resultados:
 

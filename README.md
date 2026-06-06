@@ -81,7 +81,7 @@ Durante o treinamento desta IA, foram realizados testes para refinar o aprendiza
 ### Variação de Prompt
 > "Explique lógica de programação como se eu fosse um iniciante total."
 
-- **Ajuste (Troubleshooting):** Inicialmente, a resposta poderia ser muito técnica. O ajuste foi focar na comparação com tarefas do dia a dia, como "fazer uma receita" ou "ligar para um amigo", o que facilitou a compreensão dos algoritmos.
+- **Ajuste:** Inicialmente, a resposta poderia ser muito técnica. O ajuste foi focar na comparação com tarefas do dia a dia, como "fazer uma receita" ou "ligar para um amigo", o que facilitou a compreensão dos algoritmos.
 
 ### Dificuldade Encontrada
 **Tema:** A transição do **pseudocódigo** para o código real Python.

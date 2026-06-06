@@ -136,5 +136,3 @@ Consiste em responder cinco perguntas fundamentais antes de programar:
 ```
 "Analise este trecho de código e sugira como deixá-lo mais 'Pythonic' seguindo o PEP 20."
 ```
-
----

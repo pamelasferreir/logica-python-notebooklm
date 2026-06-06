@@ -31,7 +31,7 @@ As fontes selecionadas para este estudo incluem materiais educativos de grandes 
 
 ---
 
-## 🤖 Como a IA foi usada neste projeto
+## Como a IA foi usada neste projeto
 
 ### Lógica antes da sintaxe
 
